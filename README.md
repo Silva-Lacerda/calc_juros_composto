@@ -1,6 +1,6 @@
 ---
 
-# Calculo de IMC
+# Calculo de Juros Composto
 
 ---
 
